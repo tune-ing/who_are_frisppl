@@ -1,4 +1,4 @@
-# Ultimate Frisbee Club Network Project
+# IN PROGRESS: Ultimate Frisbee Club Network Project
 
 ## Overview
 This project explores who elite U.S. club ultimate players are beyond on-field statistics.
